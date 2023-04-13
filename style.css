@@ -63,11 +63,11 @@ body{
 
 .header nav ul li a{
   font-size: 2rem;
-  color:#fff;
+  color:rgb(149, 159, 160);
 }
 
 .header nav ul li a:hover{
-  color: rgb(149, 159, 160);
+  color: rgb(254, 255, 255);
   text-decoration: none;
 }
 
@@ -99,6 +99,7 @@ body{
   padding:1rem;
   text-align: center;
   opacity: .8;
+  color:rgb(149, 159, 160);
 }
 
 .home .hero .text2{
