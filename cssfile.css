@@ -31,7 +31,7 @@ header{
 	margin-left: 5px;
 }
 #logo:hover #logo-s{
-	color: orange; /* blue */
+	color:rgb(149, 159, 160); /* blue */
 }
 .sign{
 	float: right;
@@ -49,8 +49,8 @@ header{
 	padding: 6px 15px;
 }
 .sign a:hover{
-	color:orange; /* blue */
-	border-color: orange; /* blue */
+	color:rgb(149, 159, 160); /* blue */
+	border-color: rgb(149, 159, 160); /* blue */
 }
 /* /1 */
 
@@ -58,7 +58,7 @@ header{
 .slider{
 	position: relative;
 	width: 100%;
-	background: orange; /* darckblue */
+	background: rgb(149, 159, 160); /* darckblue */
 }
 .myslide{
 	height: 655px;
@@ -78,7 +78,7 @@ header{
 	user-select: none;
 }
 .prev:hover, .next:hover{
-	color: #00a7ff; /* blue */
+	color:rgb(149, 159, 160); /* blue */
 }
 .next{
 	right: 0;
